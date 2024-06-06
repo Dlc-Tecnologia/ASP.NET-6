@@ -1,2 +1,2 @@
 # ASP.NET-6
- Project Crud
+ Crud Project
